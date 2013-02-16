@@ -6,9 +6,9 @@ Plogen is a simple PHP blog generator without any database system dependency.
 Features
 ========
 
-1) No database system dependency. Of course. 
-2) Markdown support. Your blog posts will be bunch of markdown formatted text files. Learn more about markdown [here](http://www.daringfireball.net)
-3) Admin control panel. Do your stuffs from here.
+1. No database system dependency. Of course. 
+2. Markdown support. Your blog posts will be bunch of markdown formatted text files. Learn more about markdown [here](http://www.daringfireball.net)
+3. Admin control panel. Do your stuffs from here.
 
 Installation
 ============
